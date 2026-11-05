@@ -1,0 +1,28 @@
+# Build results and IDE/user files
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+build/
+*.pdb
+*.cache
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio generated
+.vs/
+.vscode/
+*.csproj.user
+*.DotSettings.user
+
+# Logs and verification artifacts
+*.log
+verify_*.json
+PlcsimS7online.log
+
+# Keep the proprietary S7ONLINE DLL out of the repo
+S7onlinx.dll

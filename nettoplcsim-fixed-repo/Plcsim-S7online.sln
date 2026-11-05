@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsoToS7online", "IsoOnTcpServer\IsoToS7online.csproj", "{8E6DA196-FDC8-4797-A032-C93903F9FDC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetToPLCSim", "NetToPLCSim\NetToPLCSim.csproj", "{31083F11-4753-4237-9121-6EB2FA9B9AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E6DA196-FDC8-4797-A032-C93903F9FDC5}.Debug|x86.ActiveCfg = Debug|x86
+		{8E6DA196-FDC8-4797-A032-C93903F9FDC5}.Debug|x86.Build.0 = Debug|x86
+		{8E6DA196-FDC8-4797-A032-C93903F9FDC5}.Release|x86.ActiveCfg = Release|x86
+		{8E6DA196-FDC8-4797-A032-C93903F9FDC5}.Release|x86.Build.0 = Release|x86
+		{31083F11-4753-4237-9121-6EB2FA9B9AEA}.Debug|x86.ActiveCfg = Debug|x86
+		{31083F11-4753-4237-9121-6EB2FA9B9AEA}.Debug|x86.Build.0 = Debug|x86
+		{31083F11-4753-4237-9121-6EB2FA9B9AEA}.Release|x86.ActiveCfg = Release|x86
+		{31083F11-4753-4237-9121-6EB2FA9B9AEA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
